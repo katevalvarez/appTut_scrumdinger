@@ -11,7 +11,8 @@ import SwiftUI
 struct ScrumdingerApp: App {
     var body: some Scene {
         WindowGroup {
-            MeetingView()
+            // initial view is scrumsView
+            ScrumsView(scrums: DailyScrum.sampleData)
         }
     }
 }
