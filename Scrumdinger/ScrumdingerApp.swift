@@ -1,6 +1,6 @@
 //
-//  Scrumdinger0App.swift
-//  Scrumdinger0
+//  ScrumdingerApp.swift
+//  Scrumdinger
 //
 //  Created by Kate Alvarez on 7/24/24.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Scrumdinger0App: App {
+struct ScrumdingerApp: App {
     var body: some Scene {
         WindowGroup {
             MeetingView()

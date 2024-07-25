@@ -1,6 +1,6 @@
 //
 //  Theme.swift
-//  Scrumdinger0
+//  Scrumdinger
 //
 //  Created by Kate Alvarez on 7/24/24.
 //
